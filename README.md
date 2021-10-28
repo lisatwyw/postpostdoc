@@ -3,7 +3,7 @@
 ## Publishing
 
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
-- [Article processing charges](apc.md)
+- [Article processing charges](publishing/apc.md)
 
 ## Securing funds 
 - considerations: short vs long term
