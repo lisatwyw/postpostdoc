@@ -35,4 +35,4 @@
 - To register, choose organization affiliation, e.g. University of British Columbia (N2) > Responsible Conduct of Research > select Students/Trainees
 
 ## Additional resources
-- [deceptive publishing](https://onesearch.library.utoronto.ca/deceptivepublishing)
+- [Deceptive publishing](https://onesearch.library.utoronto.ca/deceptivepublishing)
