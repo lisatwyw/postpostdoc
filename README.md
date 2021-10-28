@@ -2,8 +2,11 @@
 
 ## Research administration
 
-- Tools such as [Data binge](https://braincircuits.med.ubc.ca/activities/databinge/): title/ wiki/ citation/ storage/ components/ activities
-- Open datasets
+- [Open datasets](data/readme.md)
+
+- Tools such as [Data binge](https://braincircuits.med.ubc.ca/activities/databinge/) 
+ - Example project: https://osf.io/euc4m/ 
+ - title/ wiki/ citation/ storage/ components/ activities
  
 ## Publishing
 
