@@ -1,5 +1,9 @@
 # postpostdoc
 
+## Research matters
+
+[Data binge](https://braincircuits.med.ubc.ca/activities/databinge/)
+
 ## Publishing
 
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
