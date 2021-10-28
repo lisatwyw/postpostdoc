@@ -1,11 +1,15 @@
 # postpostdoc
 
 ## Securing funds 
+- considerations: short vs long term
+
+### Industry-sponsored
+- [AWS Quantum Postdoctoral Scholar](https://applications.caltech.edu/jobs/aws): Nov 2021
 
 ### Grants for those who has more than five years of training
 https://www.afar.org/grants/glenn-postdoc
 
-- considerations: short vs long term
+
 
 ## Next phase 
 
