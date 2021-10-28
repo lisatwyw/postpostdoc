@@ -1,9 +1,10 @@
 # postpostdoc
 
-## Research matters
+## Research administration
 
-[Data binge](https://braincircuits.med.ubc.ca/activities/databinge/)
-
+- Tools such as [Data binge](https://braincircuits.med.ubc.ca/activities/databinge/): title/ wiki/ citation/ storage/ components/ activities
+- Open datasets
+ 
 ## Publishing
 
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
