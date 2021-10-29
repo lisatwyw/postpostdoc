@@ -1,13 +1,18 @@
+# Data
 
+## Search engines for opensource datasets
 
-# Search engines for opensource datasets
-
-- [Physio Net](https://physionet.org/)
-- [Open Canada](https://open.canada.ca/en/open-data)
 - [Scientific Data](https://www.nature.com/sdata/)
+- [Open Canada](https://open.canada.ca/en/open-data)
+- ...
 
-## Domain-specific
+### Domain-specific
 
 - [Marine](http://www.oceandataportal.org/)
+- [Physio Net](https://physionet.org/)
 
+## Personal lists
 - [Healthcare](https://github.com/lisatwyw/data-gym)
+
+## Relevant resources 
+[Data management plans](https://help.osf.io/hc/en-us/articles/360019931133-Creating-a-data-management-plan-DMP-document) 
