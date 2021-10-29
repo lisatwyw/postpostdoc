@@ -3,6 +3,7 @@
 ## Research administration
 
 - [Open datasets](data/readme.md)
+- Planning: [listing of research guides](https://guides.library.ubc.ca/)
 - Project management tools such as [Data binge](https://braincircuits.med.ubc.ca/activities/databinge/) 
   - Example project: https://osf.io/euc4m/ 
   
