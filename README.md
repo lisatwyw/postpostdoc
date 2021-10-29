@@ -35,7 +35,7 @@ https://www.afar.org/grants/glenn-postdoc
 
 ### Project management roles
 
-[Pending](faculty.md)
+[Pending](pm/index.md)
 
 ### Research staff
 
@@ -43,7 +43,7 @@ https://www.afar.org/grants/glenn-postdoc
 
 ### Faculty 
 
-[Pending](faculty.md)
+[Pending](faculty/readme.md)
 
 
 ## Support groups
