@@ -1,3 +1,7 @@
+## Preparations
+
+- https://www.apa.org/monitor/2017/10/academic-interview
+- ...
 
 ## Synthetic data requests by faculty
 
