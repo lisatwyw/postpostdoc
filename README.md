@@ -11,7 +11,6 @@
 - [Article processing charges](publishing/apc.md)
 
 ## Securing funds 
-- considerations: short vs long term
 
 - Industry-sponsored
   - [AWS Quantum Postdoctoral Scholar](https://applications.caltech.edu/jobs/aws): Nov 2021
@@ -19,8 +18,8 @@
   - ...
 - Various: https://ops.its.sfu.ca/Home/Opportunities
 
-### Grants for those who has more than five years of training
-https://www.afar.org/grants/glenn-postdoc
+- Grants for those who has more than five years of training:
+  - https://www.afar.org/grants/glenn-postdoc
 
 
 
