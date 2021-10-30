@@ -13,6 +13,7 @@
 
 ## Personal lists
 - [Healthcare](https://github.com/lisatwyw/data-gym)
+- [pose estimation of insects in videos](https://github.com/murthylab/sleap-datasets)
 
 ## Relevant resources 
 [Data management plans](https://help.osf.io/hc/en-us/articles/360019931133-Creating-a-data-management-plan-DMP-document) 
