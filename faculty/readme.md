@@ -1,6 +1,7 @@
 ## Preparations
 
 - https://www.apa.org/monitor/2017/10/academic-interview
+- "The most successful cover letters I read demonstrate not only how the applicant “fits” the job criteria, but equally importantly how they best “fit” our department and institution. Excellent reference letters illustrated the referees’ knowledge of the position and our institution and bring this information to bear on the usual superlatives about the candidate." [Read more](https://www.universityaffairs.ca/career-advice/career-advice-article/what-not-to-do-when-applying-for-an-academic-job/)
 - ...
 
 ## Synthetic data requests by faculty
