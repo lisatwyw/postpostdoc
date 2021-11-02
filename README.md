@@ -13,15 +13,15 @@
 ## Securing funds 
 
 - Industry-sponsored
-  - [AWS Quantum Postdoctoral Scholar](https://applications.caltech.edu/jobs/aws): Nov 2021
-  - https://dsi.ubc.ca/postdoctoral-matching-fund
-  - ...
+  - [AWS Quantum Postdoctoral Scholar](https://applications.caltech.edu/jobs/aws), Nov 2021
+  - https://dsi.ubc.ca/postdoctoral-matching-fund, ongoing
+  
+  - [bio Data Catalyst](https://biodatacatalyst.nhlbi.nih.gov/fellows/program/), 2020
 - Various: https://ops.its.sfu.ca/Home/Opportunities
 
 - Grants for those who has more than five years of training:
   - https://www.afar.org/grants/glenn-postdoc
-
-
+  - [BC Lung association](https://bclung.ca/lung-research/research-grant-deadline-nov-16), Feb 18, 2021
 
 ## Next phase 
 
