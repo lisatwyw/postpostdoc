@@ -5,6 +5,11 @@
 - ...
 
 ## Being one 
+
+### Funds for students
+
+[BCIT](https://www.bcit.ca/computing-academic-studies/industry-sponsored-student-projects/)
+
 ### Synthetic data requests by faculty
 
 - ["Faculty can request free access to a synthetic dataset based on CanPath data for student use in approved courses"](https://canpath.ca/student-dataset/)
