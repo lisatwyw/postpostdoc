@@ -13,7 +13,7 @@
 ## Publishing
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
 - [Article processing charges](publishing/apc.md)
-
+- [Free of ACP - live Google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCfhHbtTQhnjdd0LmUwUZ6lMGSbCDQC_cx2qFjmw2v983pccv9k3yHJooQEcZNIn4BTOLV-9mGBpRM/pubhtml)
 ## Securing funds 
 
 - Industry-sponsored
