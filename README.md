@@ -27,6 +27,10 @@
   - https://www.afar.org/grants/glenn-postdoc
   - [BC Lung association](https://bclung.ca/lung-research/research-grant-deadline-nov-16), Feb 18, 2021
 
+### Travel grants
+
+- Open to postdoc or PhD students: https://www.mdpi.com/journal/diagnostics/awards, next deadline: Oct 2022
+
 ## Next phase 
 
 - Research associate: https://nrc.canada.ca/en/corporate/careers/research-associate-program
