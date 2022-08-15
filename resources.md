@@ -4,8 +4,13 @@
 
 https://www.sfu.ca/content/sfu/fhs/faculty-staff-resources/administration/meeting-and-room-booking-instructions/_jcr_content/main_content/download_0/file.res/Map%20of%20FHS%20Meeting%20Rooms%20%26%20Details%2C%20BLU.pdf
 
+## Other modules  
+- https://www.europubhealth.org/images/documentos/Modules2016/EPIBIOSTATS_syllabi_2016.pdf
+
+
 
 ## Resources
+
 
 
 - https://www.brophyj.com/
