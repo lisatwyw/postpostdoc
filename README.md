@@ -4,8 +4,8 @@
 
 | Venue | Status | Registration fees |
 | :-- | :-- | :-- |
-| FLE https://www.flelearning.ca/conference/aicssh/publication-policy/ | passed | more than $545 USD | 
-
+| FLE https://www.flelearning.ca/conference/aicssh/publication-policy/ |  more than $545 USD | Mar 13, 2024 |
+| https://iser.co/Conference/23030/ICESS/registration | 250 USD for virtual attendance | May 6, 2024 |
 
 ## NSERC
 
