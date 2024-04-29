@@ -1,6 +1,13 @@
 # Post Postdoc
 
-## Postdoc presently...
+## Conferences in Vancouver
+
+| Venue | Status | Registration fees |
+| :-- | :-- | :-- |
+| FLE https://www.flelearning.ca/conference/aicssh/publication-policy/ | passed | more than $545 USD | 
+
+
+## NSERC
 
 - https://www.nserc-crsng.gc.ca/NSERC-CRSNG/NSERC2030-CRSNG2030/discussion_papers-documents_de_travail_eng.asp
 
@@ -14,7 +21,8 @@
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
 - [Article processing charges](publishing/apc.md)
 - [Free of ACP - live Google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCfhHbtTQhnjdd0LmUwUZ6lMGSbCDQC_cx2qFjmw2v983pccv9k3yHJooQEcZNIn4BTOLV-9mGBpRM/pubhtml)
-## Securing funds 
+
+## Securing funds for projects
 
 - Industry-sponsored
   - [AWS Quantum Postdoctoral Scholar](https://applications.caltech.edu/jobs/aws), Nov 2021
