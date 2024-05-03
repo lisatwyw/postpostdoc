@@ -6,3 +6,8 @@
 - Annual Giving Officer, $59,579-$68,091, FTE, permanent, 2021
 - Prospect Research Coordinator, $47,663-$54,473, permanent, 2021
 
+
+## SFU lecturer
+
+- [$95k-110k](sfu_2024.md)
+ 
