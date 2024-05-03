@@ -9,5 +9,5 @@
 
 ## SFU lecturer
 
-- [$95k-110k](sfu_2024.md)
+- 2014: (Limited-term) positions at BBY/ Surrey: $95k-110k; [job ad](sfu_2024.md)
  
