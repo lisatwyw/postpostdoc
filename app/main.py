@@ -7,6 +7,8 @@ import sys, os
 parent_dir = os.path.dirname( os.path.realpath( __file__))
 gparent_dir = os.path.dirname( parent_dir )
 
+st.write( gparent_dir )
+st.write( parent_dir)
 
 dat = pd.read_csv( Path( os.path.realpath( __file__) , '2023_NB_Canada.csv' ) )
 
