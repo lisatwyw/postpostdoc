@@ -25,12 +25,17 @@ st.write( f )
 mkd = '''
 # Happily after PhD
 
+[site under construction]
+
 ## About
 
 Various resources to help faciliate post graduation.
 
+## 2023 stats from NB, Canada
+
 '''
 
 st.markdown( mkd )
+
 st.dataframe( dat ) 
 
