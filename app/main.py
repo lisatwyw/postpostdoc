@@ -1,7 +1,7 @@
 
 import streamlit as st
 import pandas as pd
-from libpath import Path
+from pathlib import Path
 import sys, os
 
 parent_dir = os.path.dirname( os.path.realpath( __file__))
