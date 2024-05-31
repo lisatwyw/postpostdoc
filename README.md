@@ -4,7 +4,7 @@
 
 | Type | Range | Year |
 | :-- | :-- | :-- |
-| Undergrad o-op at UBC | CAD 3400/ term | 2024 |
+| Undergrad o-op at UBC | CAD 3412/ monthly (37 hrs/ week)| 2024 |
 
 ## Conferences in Vancouver
 
