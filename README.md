@@ -1,5 +1,11 @@
 # Post Postdoc
 
+## Salary ranges
+
+| Type | Range | Year |
+| :-- | :-- | :-- |
+| Undergrad o-op at UBC | CAD 3400/ term | 2024 |
+
 ## Conferences in Vancouver
 
 | Venue |  Registration fees | Status |
