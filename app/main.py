@@ -10,7 +10,7 @@ gparent_dir = os.path.dirname( parent_dir )
 st.write( gparent_dir )
 st.write( parent_dir)
 
-f =  Path( parent_dir, '2023_NB_Canada.csv' )
+f =  Path( parent_dir, '2023_NB_Canada.csv.csv' )
 st.write( f )
 
 dat = pd.read_csv(f )
