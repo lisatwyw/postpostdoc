@@ -1,6 +1,6 @@
 
 import streamlit as st
-import pandas as pdf
+import pandas as pd
 
 dat = pd.read_csv( '2023_NB_Canada.csv' )
 
