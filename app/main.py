@@ -4,13 +4,13 @@ import pandas as pd
 from pathlib import Path
 import sys, os
 
-parent_dir = os.path.dirname( os.path.realpath( __file__))
+parent_dir = os.path.dirname( os.path.realpath( __file__))  # /mount/src/postpostdoc/app/main.py 
 gparent_dir = os.path.dirname( parent_dir )
 
 st.write( gparent_dir )
 st.write( parent_dir)
 
-f =  Path( os.path.realpath( __file__) , '2023_NB_Canada.csv' )
+f =  Path( parent_dir, '2023_NB_Canada.csv' )
 st.write( f )
 
 dat = pd.read_csv(f )
