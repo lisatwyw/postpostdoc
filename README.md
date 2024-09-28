@@ -27,7 +27,7 @@
 - [Open publishing](https://scholcomm.ubc.ca/publishing-services/)
 - [Article processing charges](publishing/apc.md)
 - [Free of ACP - live Google sheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCfhHbtTQhnjdd0LmUwUZ6lMGSbCDQC_cx2qFjmw2v983pccv9k3yHJooQEcZNIn4BTOLV-9mGBpRM/pubhtml)
-     - [Science Communication; IF 4.9](https://journals.sagepub.com/author-instructions/SCX
+     - [Science Communication; IF 4.9](https://journals.sagepub.com/author-instructions/SCX)
      - ...
   
 ## Securing funds for projects
