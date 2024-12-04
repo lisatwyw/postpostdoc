@@ -11,6 +11,8 @@
 
 | Venue |  Registration fees | Status |
 | :-- | :-- | :-- |
+| https://www.icnlp.net/| | Dec 30, 2025 |
+| https://ammi-cacmidconference.ca/2025-abstracts-and-case-reports/ | | Jan 2025 |
 | FLE https://www.flelearning.ca/conference/aicssh/publication-policy/ |  more than $545 USD | Mar 13, 2024 |
 | https://iser.co/Conference/23030/ICESS/registration | 250 USD for virtual attendance | May 6, 2024 |
 
