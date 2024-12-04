@@ -4,7 +4,8 @@
 
 | Type | Range | Year |
 | :-- | :-- | :-- |
-| Undergrad o-op at UBC | CAD 3412/ monthly (37 hrs/ week)| 2024 |
+| Undergrad co-op at UBC | CAD 3412/ monthly (37 hrs/ week)| 2024 |
+| Junior data scientist PHSA | CAD 86k | 2024 |
 
 ## Conferences in Vancouver
 
